@@ -12,7 +12,7 @@
     "imageSrc": "projects/project.png",
     "description": "UrWeather is a weather forecast web application and the OpenWeatherMap API for data retrieval.",
     "skills": ["HTML", "CSS", "JavaScript", "Bootstrap", "API"],
-    "demo": "https://github.com/nihalkshetty2002/weather-forcast-urweather.git",
+    "demo": "https://nihalkshetty2002.github.io/weather-forcast-urweather/",
     "source": "https://github.com/nihalkshetty2002/weather-forcast-urweather.git"
   },  
   {
