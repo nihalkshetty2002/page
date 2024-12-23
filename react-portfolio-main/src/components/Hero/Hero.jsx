@@ -7,22 +7,24 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
+        {/* Hero Title */}
         <h1 className={styles.title}>Hi, I'm Nihal Kiran Shetty</h1>
+        {/* Description */}
         <p className={styles.description}>
-        I'm a full-stack developer with expertise in C++, Java, and Python. 
-        I have hands-on experience in web development using HTML, CSS, JavaScript, and PHP, and am skilled with React basics and MySQL database management. 
-        Additionally, I have built machine learning models for data classification tasks. 
-        Let's connect to discuss how I can contribute to your next big idea!
+          I'm a full-stack developer with expertise in C++, Java, and Python. I have hands-on experience in web development using HTML, CSS, JavaScript, and PHP, and am skilled with React basics and MySQL database management. Additionally, I have built machine learning models for data classification tasks. Let's connect to discuss how I can contribute to your next big idea!
         </p>
+        {/* Contact Button */}
         <a href="mailto:nihalshetty54@email.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
+      {/* Hero Image */}
       <img
         src={getImageUrl("hero/heroo.png")}
         alt="Hero image of me"
         className={styles.heroImg}
       />
+      {/* Background Decorations */}
       <div className={styles.topBlur} />
       <div className={styles.bottomBlur} />
     </section>
