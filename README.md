@@ -1,12 +1,25 @@
 # Portfolio Website
- Description: 
-Developed a responsive and modern personal portfolio website to showcase skills, projects, and experience.
+ Description: Developed a responsive and modern personal portfolio website to showcase skills, projects, and experience.
+
+
 Technologies Used: React, Vite, CSS Modules, JSON for content management.
+
+
 Key Features:
+
+
 Dynamic sections: About, Projects, Skills, and Contact.
+
+
 Fully responsive design for cross-device compatibility.
+
+
 Optimized performance and fast loading using Vite.
+
+
 Integration of social media and project demo/source links.
+
+
 Outcome: Created a professional platform to highlight technical expertise and facilitate easy connections with potential employers or collaborators.
 
 # ScreenShots of My Portfolio Website
