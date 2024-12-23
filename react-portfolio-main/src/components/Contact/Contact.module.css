@@ -95,12 +95,15 @@
     font-size: 18px;
   }
 
+  .links{
+      align-items: flex-start;
+  }
   .link img {
     width: 35px;
     height: 35px;
   }
 
   .link a {
-    font-size: 28px;
+    font-size: 18px;
   }
 }
